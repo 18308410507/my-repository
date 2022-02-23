@@ -1,2 +1,2 @@
-# my-repository
+origin
 this is my repository
